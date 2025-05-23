@@ -1,7 +1,7 @@
 🕒 Sana: 2025-05-23 00:48:15
 👤 Username: Admin
 🆔 ID: 5222930480
-📍 Latitude: 41.359511, Longitude: 61.017649
+
 🌡 Harorat: 19.77°C
 🌥 Ob-havo: scattered clouds
 💨 Shamol: 5.29 m/s
