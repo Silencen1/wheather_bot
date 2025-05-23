@@ -3,6 +3,5 @@ charset-normalizer==3.4.2
 idna==3.10
 requests==2.32.3
 urllib3==2.4.0
-python-telegram-bot==20.3
 python-telegram-bot==22.1
 
