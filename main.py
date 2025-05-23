@@ -1,6 +1,5 @@
 
-#BOT_TOKEN = "7976024276:AAE_HjIssXdorIanEo6-nO8qfWnamlk__eg"
-#WEATHER_API_KEY = "8b2e89c0b6fa00bf89ce6a1a0accd3a1"
+
 import logging
 import requests
 import os
