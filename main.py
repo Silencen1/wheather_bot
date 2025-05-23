@@ -7,8 +7,8 @@ from datetime import datetime
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup, ReplyKeyboardRemove, BotCommand
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, MessageHandler, ContextTypes, filters
 
-BOT_TOKEN = "7976024276:AAE_HjIssXdorIanEo6-nO8qfWnamlk__eg"
-WEATHER_API_KEY = "8b2e89c0b6fa00bf89ce6a1a0accd3a1"
+BOT_TOKEN =  os.getenv("BOT_TOKEN")
+WEATHER_API_KEY = os.getenv("WEATHER_API_KEY")
 ADMIN_ID = 536614171  # Adminning sonli Telegram ID raqami bilan almashtiring
 
 # Foydalanuvchi holati uchun xotira
